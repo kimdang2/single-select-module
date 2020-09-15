@@ -3,7 +3,7 @@ Created a single-select React component that can select from a given list of <b>
 
 
 ## Usage
-- Change the input in data.js file located in the src folder to a list of array strings or objects to render selections
+- Change the input in data.js file located in the src folder to a list of array strings
 ```javascript
   <SingleSelect options={data}/>
 ```
@@ -33,7 +33,7 @@ Created a single-select React component that can select from a given list of <b>
   return (
     <div className="single-select">
       <div ref={wrapperRef} >
-```
+
 
 ## Install Dependencies
 npm install
