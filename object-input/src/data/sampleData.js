@@ -1,4 +1,4 @@
-const data = [
+const sampleData = [
   {label: "Python",value: "Python", logo:"/python1.svg"},
   {label: "JavaScript", value: "JavaScript" , logo:"/js.svg"},
   {label: "C#", value: "C#", logo:"/milktea.svg"},
@@ -12,4 +12,4 @@ const data = [
   {label: "React2", value: "React2", logo:"/python1.svg"}
 ];
 
-export default data;
+export default sampleData;

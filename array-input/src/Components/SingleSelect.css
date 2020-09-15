@@ -1,13 +1,14 @@
 .single-select {
   display: flex;
   align-items: center;
-  position: relative;
-  width: 100%;
+  position: relative
 }
 
 .dropdown-container {
+  width: 350px; /* change width of drop down display*/
   border-radius: 5px;
-  border: 1px solid #a9a9a952;;
+  border: 1px solid #a9a9a952;
+  position: relative;
 }
 
 .dropdown-container:focus-within{
@@ -25,7 +26,6 @@ span {
 .dropdown-input {
   padding: 10px;
   height: 20px;
-  width: 350px; /* change width of drop down display*/
   border: 1px solid #a9a9a952;
   font-size: 18px;
   text-transform: capitalize;
@@ -35,7 +35,6 @@ span {
 }
 
 .dropdown-menu {
-  position: absolute;
   border-width: 0px 1px 1px 1px;
   border-style: solid;
   border-color: #a9a9a952;
@@ -74,7 +73,7 @@ span {
 
 .icon-selectors {
   display: inline-block;
-  flex-shrink: 0;
+  float:right;
   padding: 5px;
 }
 
