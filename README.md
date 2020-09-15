@@ -10,7 +10,7 @@ Created an auto-complete single-select React component that can select one value
 
 ![Demo](https://media.giphy.com/media/PgKreWGGxY2yodhmLh/giphy.gif)
 
-![Demo](https://media.giphy.com/media/U4XqRGAIzQZYAe4eOd/giphy.gif)
+![Demo](https://media.giphy.com/media/Lm5IDs3h5JiwDgtwfC/giphy.gif)
 
 ### Run demo
 git clone https://github.com/kimdang2/demo-single-select-module.git <br/>

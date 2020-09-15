@@ -53,4 +53,4 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Demo
-![Demo](https://media.giphy.com/media/PgKreWGGxY2yodhmLh/giphy.gif)
+![Demo](https://media.giphy.com/media/Lm5IDs3h5JiwDgtwfC/giphy.gif)
