@@ -1,5 +1,5 @@
 const sampleData = [
-  {label: "Python",value: "Python", logo:"/python1.svg"},
+  {label: "Python", value: "Python", logo:"/python1.svg"},
   {label: "JavaScript", value: "JavaScript" , logo:"/js.svg"},
   {label: "C#", value: "C#", logo:"/milktea.svg"},
   {label: "Java",value: "Java", logo:"/python1.svg"},
