@@ -24,7 +24,7 @@ span {
 .dropdown-input {
   padding: 10px;
   height: 20px;
-  width: auto;
+  width: 350px; /* change width of drop down display*/
   border: 1px solid #a9a9a952;
   font-size: 18px;
   text-transform: capitalize;
@@ -80,4 +80,10 @@ span {
 img {
   width: 20px;
   height: 20px;
+}
+
+@media all and (max-width: 520px ) {
+  .dropdown-input {
+    width:50%;
+  }
 }
