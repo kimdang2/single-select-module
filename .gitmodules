@@ -1,0 +1,3 @@
+[submodule "demo-module"]
+	path = demo-module
+	url = https://github.com/kimdang2/demo-single-select-module.git
