@@ -1,7 +1,4 @@
-.App{
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+.app{
+  margin: 0px auto;
+  width: 40%;
 }
